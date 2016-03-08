@@ -1,0 +1,10 @@
+D:\test\testps03199\testps03199\bin\Debug\testps03199.exe.config
+D:\test\testps03199\testps03199\bin\Debug\testps03199.exe
+D:\test\testps03199\testps03199\bin\Debug\testps03199.pdb
+D:\test\testps03199\testps03199\bin\Debug\testps03199.xml
+D:\test\testps03199\testps03199\obj\Debug\testps03199.frmQLSP.resources
+D:\test\testps03199\testps03199\obj\Debug\testps03199.Resources.resources
+D:\test\testps03199\testps03199\obj\Debug\testps03199.vbproj.GenerateResource.Cache
+D:\test\testps03199\testps03199\obj\Debug\testps03199.exe
+D:\test\testps03199\testps03199\obj\Debug\testps03199.xml
+D:\test\testps03199\testps03199\obj\Debug\testps03199.pdb
